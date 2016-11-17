@@ -1,0 +1,6 @@
+framework module NDTestFrameWorkCalculate {
+  umbrella header "NDTestFrameWorkCalculate-umbrella.h"
+
+  export *
+  module * { export * }
+}

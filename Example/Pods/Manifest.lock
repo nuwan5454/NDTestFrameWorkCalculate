@@ -1,0 +1,16 @@
+PODS:
+  - NDTestFrameWorkCalculate (0.1.0)
+
+DEPENDENCIES:
+  - NDTestFrameWorkCalculate (from `../`)
+
+EXTERNAL SOURCES:
+  NDTestFrameWorkCalculate:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NDTestFrameWorkCalculate: 8715566839bace7d035659a15adcfe529adec714
+
+PODFILE CHECKSUM: e149e73a2e80fa106fe8669cb576fb99ba3bd2d0
+
+COCOAPODS: 1.0.1
