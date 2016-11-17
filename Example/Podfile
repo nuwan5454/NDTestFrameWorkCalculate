@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NDTestFrameWorkCalculate_Example' do
+  pod 'NDTestFrameWorkCalculate', :path => '../'
+
+  target 'NDTestFrameWorkCalculate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
